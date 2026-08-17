@@ -1,5 +1,5 @@
 practice project
 
-My forst repository
-My forst commit
+My first repository
+My first commit
 
